@@ -37,6 +37,10 @@ const questions = [{
     message: 'Please provide details to the user about what they need to know for wanting to contribute to the repository'
 }, {
     type: 'input',
+    name: 'credit',
+    message: 'Give credits to developers that helped on the project'
+}, {
+    type: 'input',
     name: 'github',
     message: 'Please provide your Github username'
 }, {
@@ -47,10 +51,23 @@ const questions = [{
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) { }
+// function writeToFile(fileName, data) { }
 
-// TODO: Create a function to initialize app
-function init() { }
+// // TODO: Create a function to initialize app
+// function init() { }
 
-// Function call to initialize app
-init();
+// // Function call to initialize app
+// init();
+
+function application () {
+    inquirer.prompt(questions).then(answers => {
+        try {
+            fs.writeFileSync("dist/README.md", generateMarkDown(answers))
+            console.log("Success! your file is located in the dist directory")
+        } catch (error) {
+            console.log(error.message);
+        }
+    })
+}
+
+application();
