@@ -1,11 +1,11 @@
-# Sal123 
+# Project number 2 
 
-  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg) 
+  
 
 
    ## Description 
 
- it does things and stuff that you will need 
+ it helps capatlize letters 
 
  
   ## Table of Contents 
@@ -17,7 +17,7 @@
  
   - [credits](#credits) 
 
-  - [license](#license) 
+   
 
 
   
@@ -46,10 +46,7 @@
  N/A 
 
 
-  ## License 
-
-
-    This project is licensed under the MIT license 
+   
 
 
   ## questions 
