@@ -1,8 +1,11 @@
-# test 1 
+# Sal123 
 
- ## Description 
+  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg) 
 
- it does stuff 
+
+   ## Description 
+
+ it does things and stuff that you will need 
 
  
   ## Table of Contents 
@@ -14,6 +17,8 @@
  
   - [credits](#credits) 
 
+  - [license](#license) 
+
 
   
   ## installation 
@@ -23,7 +28,7 @@
 
   ## usage 
 
- none 
+ N/A 
 
  
   ## test 
@@ -33,7 +38,22 @@
 
   ## credits 
 
- none 
+ N/A 
 
 
+  ## contribute 
+
+ N/A 
+
+
+  ## License 
+
+
+    This project is licensed under the MIT license 
+
+
+  ## questions 
+
+
+ if you have questions see my email at fake@gmail.com and github at [SalGonzalez151](https://github.com/SalGonzalez151)
 
