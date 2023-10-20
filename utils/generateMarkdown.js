@@ -24,7 +24,7 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license !== 'none') {
     return `## License \n\n
-    This project is licensed under the ${license} license`;
+    This project is licensed under the ${license} license \n\n`;
   } else {
     return '';
   }
@@ -47,7 +47,7 @@ function generateMarkdown(data) {
   ## test \n\n ${data.test} \n\n
   ## credits \n\n ${data.credit} \n\n
   ## contribute \n\n ${data.contributing} \n\n
-  ${renderLicenseSection(data.license)} \n\n
+  ${renderLicenseSection(data.license)} 
   ## questions \n\n
  if you have questions see my email at ${data.email} and github at [${data.github}](https://github.com/${data.github})
 

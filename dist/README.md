@@ -1,11 +1,11 @@
-# sal102 
+# readme generator 
 
-  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg) 
+  
 
 
    ## Description 
 
- creates a readme for you once questions are answered 
+ it creates a readme for you 
 
  
   ## Table of Contents 
@@ -21,7 +21,7 @@
 
   - [contribute](#contribute)
 
-  - [license](#license) 
+   
 
   - [questions](#questions) 
 
@@ -43,7 +43,7 @@
 
   ## credits 
 
- N/a 
+ N/A 
 
 
   ## contribute 
@@ -51,12 +51,7 @@
  N/A 
 
 
-  ## License 
-
-
-    This project is licensed under the MIT license 
-
-
+   
   ## questions 
 
 
