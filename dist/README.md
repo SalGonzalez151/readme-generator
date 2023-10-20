@@ -1,11 +1,11 @@
-# Project number 2 
+# sal102 
 
-  
+  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg) 
 
 
    ## Description 
 
- it helps capatlize letters 
+ creates a readme for you once questions are answered 
 
  
   ## Table of Contents 
@@ -17,10 +17,15 @@
  
   - [credits](#credits) 
 
-   
+  - [test](#test) 
+
+  - [contribute](#contribute)
+
+  - [license](#license) 
+
+  - [questions](#questions) 
 
 
-  
   ## installation 
 
  npm i 
@@ -38,7 +43,7 @@
 
   ## credits 
 
- N/A 
+ N/a 
 
 
   ## contribute 
@@ -46,7 +51,10 @@
  N/A 
 
 
-   
+  ## License 
+
+
+    This project is licensed under the MIT license 
 
 
   ## questions 

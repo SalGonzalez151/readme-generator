@@ -38,8 +38,10 @@ function generateMarkdown(data) {
   - [installation](#installation) \n 
   - [usage](#usage) \n 
   - [credits](#credits) \n
-  ${renderLicenseLink(data.license)} \n\n
-  
+  - [test](#test) \n
+  - [contribute](#contribute)\n
+  ${renderLicenseLink(data.license)} \n
+  - [questions](#questions) \n\n
   ## installation \n\n ${data.installation} \n\n
   ## usage \n\n ${data.usage} \n\n 
   ## test \n\n ${data.test} \n\n
